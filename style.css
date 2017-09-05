@@ -1,0 +1,11 @@
+body {background-color:none;}
+#name {background-color: none;
+margin-top:12%;
+border-thickness:25px;
+border-style:solid;
+border-radius:30px;
+padding: 30px;
+
+}
+
+#text {font-family:Arial;}
